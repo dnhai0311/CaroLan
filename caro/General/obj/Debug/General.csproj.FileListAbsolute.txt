@@ -1,0 +1,12 @@
+C:\Users\student\Downloads\CaroLan\caro\General\bin\Debug\General.dll
+C:\Users\student\Downloads\CaroLan\caro\General\bin\Debug\General.pdb
+C:\Users\student\Downloads\CaroLan\caro\General\obj\Debug\General.csprojAssemblyReference.cache
+C:\Users\student\Downloads\CaroLan\caro\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\CaroLan\caro\General\obj\Debug\General.dll
+C:\Users\student\Downloads\CaroLan\caro\General\obj\Debug\General.pdb
+D:\Programs\CaroLan\caro\General\bin\Debug\General.dll
+D:\Programs\CaroLan\caro\General\bin\Debug\General.pdb
+D:\Programs\CaroLan\caro\General\obj\Debug\General.csprojAssemblyReference.cache
+D:\Programs\CaroLan\caro\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+D:\Programs\CaroLan\caro\General\obj\Debug\General.dll
+D:\Programs\CaroLan\caro\General\obj\Debug\General.pdb
